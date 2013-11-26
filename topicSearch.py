@@ -3,7 +3,7 @@ import time,re
 from HotTopic import HotTopic
 from Login import Login
 
-login = Login('noucamp20@gmail.com','yiyifanfan')
+login = Login('yourUserName','yourPWD')
 login.login()
 
 #每天的话题
